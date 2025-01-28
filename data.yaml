@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../test/images
+
+nc: 15
+names: ['Speed Limit- 100Km-h', 'Speed Limit- 10Km-h', 'Speed Limit- 110Km-h', 'Speed Limit- 115Km-h', 'Speed Limit- 120Km-h', 'Speed Limit- 130Km-h', 'Speed Limit- 30Km-h', 'Speed Limit- 40Km-h', 'Speed Limit- 50Km-h', 'Speed Limit- 5Km-h', 'Speed Limit- 60Km-h', 'Speed Limit- 70Km-h', 'Speed Limit- 80Km-h', 'Speed Limit- 90Km-h','stop']
+
